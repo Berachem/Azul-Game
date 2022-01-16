@@ -43,7 +43,7 @@ def partie(nb_joueurs, bot, mode_bot, reprendre_partie=None,automat=False):
 
 def menu():
     """
-    Crée la fenêtre qui permettra au joueur de choisir son mode de jeu et s'il choisit un mode avec IA, de choisir
+    Crée la fenêtre qui permettra au joueur de choisir son mode de jeu et si il choisit un mode avec IA, de choisir
     la difficulté de celle(s)-ci
     """
 
