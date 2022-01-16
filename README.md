@@ -13,8 +13,8 @@ Il a pu avoir lieu grâce à nos enseignants de l'Université Gustave Eiffel (an
 Création de 4 IAs différentes et semblant d'Automat. Pour satisfaire tous les types de joueurs ;)
 On pourra choisir le type des IAs qu'on souhaite affronter après avoir choisi un mode de jeu contenant au moins une IA.
 
-Possibilité de changer le patern des tuiles dans la partie en écrivant dans un fichier "patern_tuiles.txt" la liste des couleurs que l'on souhaite
-Possibilité de changer l'ordre des couleurs dans les murs en écrivant dans un fichier "config_mur.txt" l'ordre des couleurs (en liste)
+Possibilité de changer le patern des tuiles dans la partie en écrivant dans un fichier `patern_tuiles.txt` la liste des couleurs que l'on souhaite
+Possibilité de changer l'ordre des couleurs dans les murs en écrivant dans un fichier `config_mur.txt` l'ordre des couleurs (en liste)
 
 
 ### IA "difficile"
