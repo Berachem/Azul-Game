@@ -1,5 +1,5 @@
 """Module qui répertorie les fonctions relatives aux joueurs directement :
-comptage de points, création des joueurs..."""
+comptage de points, création des joueurs, gestion des IAs..."""
 
 import os
 from upemtk import *
