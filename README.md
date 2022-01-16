@@ -45,7 +45,7 @@ a au moins 3 lignes pleines ET 5 tuiles de la même couleur.
 <h1>Tester le Code</h1>
 
 Voici ce que cela donne lorsque qu'on lance le fichier `menu.py`
-```py
+```python
 python3 menu.py
 ```
 On a implémenté un menu où l'on peut choisir parmis quelques modes de jeu proposés :
