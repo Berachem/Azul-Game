@@ -2,7 +2,7 @@
 🕹️ Jeu Azul en Python avec 4 IAs 🤖 implémentées, jouable de 1 à 4 joueurs
 
 Par :  **Berachem MARKRIA** et **Tristan MARTINEZ** <br>
-Projet réalisé grâce à  : **Carine PIVOTEAU**, **Anthony LABARRE** et **Camille COMBE**  (nous les remercions tous les 3)<br>
+Projet réalisé grâce à  : **Carine PIVOTEAU**, **Anthony LABARRE** et **Camille COMBE**  (nous les remercions tous les 3 🙂)<br>
 Nous avons implementés le jeu de plateau [Azul](https://www.fnac.com/Jeu-de-strategie-Asmodee-Azul/a14232820/w-4/) en Python.
 
 Ce projet a débuté en Octobre 2021 et s'est terminé en début Janvier 2022. Soit une durée d'environ 3 mois.
