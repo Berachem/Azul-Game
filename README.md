@@ -1,5 +1,5 @@
-# Projet jeu Azul
-🕹️ Jeu Azul en Python avec une IA 🤖 implémentées, jouable de 1 à 4 joueurs
+# 🕹️ Jeu de plateau avec une IA 🤖 : Azul
+ Jeu Azul en Python avec une IA implémentées, jouable de 1 à 4 joueurs
 
 Par :  **Berachem MARKRIA** et **Tristan MARTINEZ** <br>
 Projet réalisé grâce à  : **Carine PIVOTEAU**, **Anthony LABARRE** et **Camille COMBE**  (nous les remercions tous les 3 🙂)<br>
