@@ -8,7 +8,7 @@ Nous avons implementés le jeu de plateau [Azul](https://www.fnac.com/Jeu-de-str
 Ce projet a débuté en Octobre 2021 et s'est terminé en début Janvier 2022. Soit une durée d'environ 3 mois.
 Il a pu avoir lieu grâce à nos enseignants de l'Université Gustave Eiffel (anciennement Paris-Est, Marne-la-Vallée).
 
-<h1>Implémentation</h1>
+<h1>🪄 Implémentation</h1>
 
 Création de 4 IAs différentes et un semblant d'Automat. Pour satisfaire tous les types de joueurs ;)
 On pourra choisir le type des IAs qu'on souhaite affronter après avoir choisi un mode de jeu contenant au moins une IA.
