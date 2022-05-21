@@ -50,10 +50,7 @@ python3 menu.py
 ```
 On a implémenté un menu où l'on peut choisir parmis quelques modes de jeu proposés :
 
-![Menu](https://i.postimg.cc/JMt8ZBhk/screen-menu.png)
+https://user-images.githubusercontent.com/61350744/169663102-18e8eef0-efd1-486c-a09f-67baa2d1b9f7.mp4
 
-Voici un exemple lorsqu'on lance le mode jeu *Regarder* : 
-
-![Game](https://i.postimg.cc/syTyMJ3z/screen-partie.png)
 
 Merci d'avoir feuilleté notre projet, ça nous fait chaud au ❤️ !
